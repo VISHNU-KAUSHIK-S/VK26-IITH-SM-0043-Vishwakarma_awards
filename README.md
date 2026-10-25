@@ -83,3 +83,14 @@ These stages describe the intended development path; capabilities will be marked
 The project follows a modular engineering approach: **design, implement, test, document, and improve**. Hardware interfaces and software components will be documented to simplify debugging, integration, maintenance, and future expansion.
 
 The repository serves as the central technical record of the rover's design, implementation, and development progress.
+
+## Developers
+
+- [Vishnu Kaushik S](https://github.com/VISHNU-KAUSHIK-S)
+- [Kevin Raymond](https://github.com/kevinraymond93)
+- [Arnav Rath](https://github.com/arnav-rath11/arnav-rath11)
+- [Vikas D K](https://github.com/Vikas-Dk-2005)
+
+## Drive Link
+
+- [Drive](https://drive.google.com/drive/folders/1EkdNMd7naFCUVERvC5URtl4ZttO6ABKr?usp=sharing)
