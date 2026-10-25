@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🚜 Tank Rover
+#  Tank Rover
 
 ### AI-Powered Subterranean Exploration and Rescue System
 **Application ID: VK26-IITH-SM-0043**
