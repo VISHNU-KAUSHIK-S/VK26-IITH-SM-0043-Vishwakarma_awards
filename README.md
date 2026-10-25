@@ -1,8 +1,4 @@
-# Tank Rover
-
 ### AI-Powered Subterranean Exploration and Rescue System
-
-*A tracked rover built to go where people should not have to.*
 
 **Application ID:** VK26-IITH-SM-0043 | **Vishwakarma Awards 2026-27**
 
